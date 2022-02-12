@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AloySama (real name Aloïs)
 - 👀 I’m interested in cyber-security, data science, AI.
-- 🌱 I’m currently working as a full-stack dev as an intern at [CSI](https://www.cashsystemes.eu/).
 - 📫 How to reach me:
   <br> phone: 06.16.20.33.06
   <br> email: alois.brengard@epitech.eu
