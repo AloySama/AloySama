@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @AloySama (real name Aloïs)
-- 👀 I’m interested in cyber-security, data science, AI.
-- 📫 How to reach me:
-  <br> phone: 06.16.20.33.06
-  <br> email: alois.brengard@epitech.eu
-  <br> LinkedIn : [here](https://www.linkedin.com/in/alo%C3%AFs-brengard/)
-<!---
-AloySama/AloySama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="100"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/alois-brengard/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AloySama&style=flat-square&color=blue" alt="" align="center"/>
+</div>
